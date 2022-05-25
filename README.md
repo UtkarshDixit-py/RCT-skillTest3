@@ -1,10 +1,3 @@
-# React Chat App
-
-This app is hosted on https://react-chat-app-iamabhi443.vercel.app/login
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
